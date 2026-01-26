@@ -1,7 +1,5 @@
 # Final Project Template [Replace with your project name]
 
-# Final Project - API Proxy Guide
-
 ## Overview
 This guide will help you complete your final project using the API proxy I've set up. You'll learn how to access various APIs, manage your budget, and build an awesome project!
 
@@ -35,43 +33,43 @@ Open this URL in your browser to see the full list with costs per call!
 Here are some great APIs I can add for you (just ask!):
 
 **Sports:**
-- **API-Football** (`api-football-v1.p.rapidapi.com`) - Soccer/football data, live scores, standings - FREE tier (100 req/day)
-- **API-NBA** (`api-nba-v1.p.rapidapi.com`) - NBA stats, teams, players, games - FREE tier (100 req/day)
-- **API-Baseball** (`api-baseball.p.rapidapi.com`) - Baseball stats and scores - FREE tier
-- **TheSportsDB** (`thesportsdb.p.rapidapi.com`) - Multi-sport data with images - FREE
-- **NBA Stats** (`nba-stats-db.p.rapidapi.com`) - Player and team statistics - FREE tier
-- **Live Sports Odds** (`live-sports-odds.p.rapidapi.com`) - Sports betting odds - FREE tier
+- **[API-Football](https://rapidapi.com/api-sports/api/api-football)** (`api-football-v1.p.rapidapi.com`) - Soccer/football data, live scores, standings - FREE tier (100 req/day)
+- **[API-NBA](https://rapidapi.com/api-sports/api/api-nba)** (`api-nba-v1.p.rapidapi.com`) - NBA stats, teams, players, games - FREE tier (100 req/day)
+- **[API-Baseball](https://rapidapi.com/api-sports/api/api-baseball)** (`api-baseball.p.rapidapi.com`) - Baseball stats and scores - FREE tier
+- **[TheSportsDB](https://rapidapi.com/tsdb/api/thesportsdb)** (`thesportsdb.p.rapidapi.com`) - Multi-sport data with images - FREE
+- **[NBA Stats](https://rapidapi.com/sportsdata/api/nba-stats)** (`nba-stats-db.p.rapidapi.com`) - Player and team statistics - FREE tier
+- **[Live Sports Odds](https://rapidapi.com/tipsters/api/sportsdata)** (`live-sports-odds.p.rapidapi.com`) - Sports betting odds - FREE tier
 
 **Movies & TV:**
-- **Streaming Availability** (`streaming-availability.p.rapidapi.com`) - Where to watch movies/shows - FREE tier (100 req/day)
-- **Advanced Movie Search** (`advanced-movie-search.p.rapidapi.com`) - Movie database - FREE
-- **OTT Details** (`ott-details.p.rapidapi.com`) - Streaming platform info - FREE tier
-- **Movie Database Alternative** (`moviesminidatabase.p.rapidapi.com`) - Movie data - FREE tier
-- **Watchmode** (`watchmode.p.rapidapi.com`) - Streaming sources - FREE tier
+- **[Streaming Availability](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability)** (`streaming-availability.p.rapidapi.com`) - Where to watch movies/shows - FREE tier (100 req/day)
+- **[Advanced Movie Search](https://rapidapi.com/jakash1997/api/advanced-movie-search)** (`advanced-movie-search.p.rapidapi.com`) - Movie database - FREE
+- **[OTT Details](https://rapidapi.com/gox-ai-gox-ai-default/api/ott-details)** (`ott-details.p.rapidapi.com`) - Streaming platform info - FREE tier
+- **[Movie Database Alternative](https://rapidapi.com/SAdrian/api/moviesdatabase)** (`moviesminidatabase.p.rapidapi.com`) - Movie data - FREE tier
+- **[Watchmode](https://rapidapi.com/apimaker/api/watchmode)** (`watchmode.p.rapidapi.com`) - Streaming sources - FREE tier
 
 **Food & Recipes:**
-- **Tasty** (`tasty.p.rapidapi.com`) - 4000+ recipes from Buzzfeed Tasty - FREE tier
-- **Edamam Recipe Search** (`edamam-recipe-search.p.rapidapi.com`) - 2.3M+ recipes - FREE tier
-- **The Meal DB** (`themealdb.p.rapidapi.com`) - 283 meals with images - FREE
-- **Recipe by API-Ninjas** (`recipe-by-api-ninjas.p.rapidapi.com`) - Recipe search - FREE tier (1000/month)
-- **Worldwide Recipes** (`worldwide-recipes1.p.rapidapi.com`) - International recipes - FREE tier
-- **Low Carb Recipes** (`low-carb-recipes.p.rapidapi.com`) - Diet-specific recipes - FREE
+- **[Tasty](https://rapidapi.com/apidojo/api/tasty)** (`tasty.p.rapidapi.com`) - 4000+ recipes from Buzzfeed Tasty - FREE tier
+- **[Edamam Recipe Search](https://rapidapi.com/edamam/api/recipe-search-and-diet)** (`edamam-recipe-search.p.rapidapi.com`) - 2.3M+ recipes - FREE tier
+- **[The Meal DB](https://rapidapi.com/theapiguy/api/themealdb)** (`themealdb.p.rapidapi.com`) - 283 meals with images - FREE
+- **[Recipe by API-Ninjas](https://rapidapi.com/apininjas/api/recipe-by-api-ninjas)** (`recipe-by-api-ninjas.p.rapidapi.com`) - Recipe search - FREE tier (1000/month)
+- **[Worldwide Recipes](https://rapidapi.com/rezkmike/api/worldwide-recipes1)** (`worldwide-recipes1.p.rapidapi.com`) - International recipes - FREE tier
+- **[Low Carb Recipes](https://rapidapi.com/mareksavkovic-5Yz8EqKp2O/api/low-carb-recipes)** (`low-carb-recipes.p.rapidapi.com`) - Diet-specific recipes - FREE
 
 **Health & Fitness:**
-- **ExerciseDB** (`exercisedb.p.rapidapi.com`) - 1300+ exercises with animations - FREE
-- **Workout Planner** (`work-out-api1.p.rapidapi.com`) - Custom workout plans - FREE tier
-- **Fitness Calculator** (`fitness-calculator.p.rapidapi.com`) - BMI, calories, etc. - FREE tier
-- **Nutrition by API-Ninjas** (`nutrition-by-api-ninjas.p.rapidapi.com`) - 100k+ foods - FREE tier (1000/month)
-- **Calorie Ninjas** (`calorieninjas.p.rapidapi.com`) - Nutrition data - FREE tier
-- **Yoga Poses** (`yoga-api-nzy4.p.rapidapi.com`) - Yoga pose database - FREE
+- **[ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb)** (`exercisedb.p.rapidapi.com`) - 1300+ exercises with animations - FREE
+- **[Workout Planner](https://rapidapi.com/naeimsalib/api/work-out-api1)** (`work-out-api1.p.rapidapi.com`) - Custom workout plans - FREE tier
+- **[Fitness Calculator](https://rapidapi.com/malaaddincelik/api/fitness-calculator)** (`fitness-calculator.p.rapidapi.com`) - BMI, calories, etc. - FREE tier
+- **[Nutrition by API-Ninjas](https://rapidapi.com/apininjas/api/nutrition-by-api-ninjas)** (`nutrition-by-api-ninjas.p.rapidapi.com`) - 100k+ foods - FREE tier (1000/month)
+- **[Calorie Ninjas](https://rapidapi.com/calorieninjas/api/calorieninjas)** (`calorieninjas.p.rapidapi.com`) - Nutrition data - FREE tier
+- **[Yoga Poses](https://rapidapi.com/dev-warrior-dev-warrior-default/api/yoga-api-nzy4)** (`yoga-api-nzy4.p.rapidapi.com`) - Yoga pose database - FREE
 
 **Other Cool APIs:**
-- **GeoDB Cities** (`wft-geo-db.p.rapidapi.com`) - World cities data - FREE tier
-- **Random Facts** (`random-facts2.p.rapidapi.com`) - Fun facts - FREE
-- **Motivational Quotes** (`motivational-quotes1.p.rapidapi.com`) - Inspirational quotes - FREE
-- **Trivia by API-Ninjas** (`trivia-by-api-ninjas.p.rapidapi.com`) - Trivia questions - FREE tier
-- **Open Library** (`hapi-books.p.rapidapi.com`) - Book data - FREE
-- **Currency Exchange** (`currency-exchange.p.rapidapi.com`) - Exchange rates - FREE tier
+- **[GeoDB Cities](https://rapidapi.com/wirefreethought/api/geodb-cities)** (`wft-geo-db.p.rapidapi.com`) - World cities data - FREE tier
+- **[Random Facts](https://rapidapi.com/fungenerators/api/random-facts2)** (`random-facts2.p.rapidapi.com`) - Fun facts - FREE
+- **[Motivational Quotes](https://rapidapi.com/motivational-quotes-api/api/motivational-quotes1)** (`motivational-quotes1.p.rapidapi.com`) - Inspirational quotes - FREE
+- **[Trivia by API-Ninjas](https://rapidapi.com/apininjas/api/trivia-by-api-ninjas)** (`trivia-by-api-ninjas.p.rapidapi.com`) - Trivia questions - FREE tier
+- **[Open Library](https://rapidapi.com/roftcomp-laGmBwlWLm/api/hapi-books)** (`hapi-books.p.rapidapi.com`) - Book data - FREE
+- **[Currency Exchange](https://rapidapi.com/natkapral/api/currency-exchange)** (`currency-exchange.p.rapidapi.com`) - Exchange rates - FREE tier
 
 ### Want an API That's Not Listed?
 
