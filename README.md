@@ -1,6 +1,5 @@
 # Final Project Template [Replace with your project name]
 
-
 ## Overview
 This guide will help you complete your final project using the API proxy I've set up. You'll learn how to access various APIs, manage your budget, and build an awesome project!
 
@@ -33,33 +32,44 @@ Open this URL in your browser to see the full list with costs per call!
 
 Here are some great APIs I can add for you (just ask!):
 
-**Entertainment & Fun:**
-- **Dad Jokes** (`dad-jokes.p.rapidapi.com`) - Random dad jokes - FREE
-- **JokeAPI** (`jokeapi-v2.p.rapidapi.com`) - Various joke types - FREE
-- **Anime Quotes** (`animechan.p.rapidapi.com`) - Anime character quotes - FREE
-- **Chuck Norris Jokes** (`matchilling-chuck-norris-jokes-v1.p.rapidapi.com`) - FREE
-- **Random User Generator** (`random-user-generator-api.p.rapidapi.com`) - Fake user profiles - FREE
-
-**Information & Data:**
-- **Weather API** (`weatherapi-com.p.rapidapi.com`) - Current weather & forecasts - FREE tier
-- **Country Info** (`restcountries-v1.p.rapidapi.com`) - Country data - FREE
-- **Dictionary** (`dictionary-by-api-ninjas.p.rapidapi.com`) - Word definitions - FREE
-- **Numbers Trivia** (`numbersapi.p.rapidapi.com`) - Fun number facts - FREE
-- **IP Geolocation** (`ip-geolocation-ipwhois-io.p.rapidapi.com`) - Location by IP - FREE
+**Sports:**
+- **[API-Football](https://rapidapi.com/api-sports/api/api-football)** (`api-football-v1.p.rapidapi.com`) - Soccer/football data, live scores, standings - FREE tier (100 req/day)
+- **[API-NBA](https://rapidapi.com/api-sports/api/api-nba)** (`api-nba-v1.p.rapidapi.com`) - NBA stats, teams, players, games - FREE tier (100 req/day)
+- **[API-Baseball](https://rapidapi.com/api-sports/api/api-baseball)** (`api-baseball.p.rapidapi.com`) - Baseball stats and scores - FREE tier
+- **[TheSportsDB](https://rapidapi.com/tsdb/api/thesportsdb)** (`thesportsdb.p.rapidapi.com`) - Multi-sport data with images - FREE
+- **[NBA Stats](https://rapidapi.com/sportsdata/api/nba-stats)** (`nba-stats-db.p.rapidapi.com`) - Player and team statistics - FREE tier
+- **[Live Sports Odds](https://rapidapi.com/tipsters/api/sportsdata)** (`live-sports-odds.p.rapidapi.com`) - Sports betting odds - FREE tier
 
 **Movies & TV:**
-- **IMDB** (`imdb236.p.rapidapi.com`) - Movie data - ~$0.01/call
-- **Movies Database** (`moviesdatabase.p.rapidapi.com`) - Movie info - FREE tier
+- **[Streaming Availability](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability)** (`streaming-availability.p.rapidapi.com`) - Where to watch movies/shows - FREE tier (100 req/day)
+- **[Advanced Movie Search](https://rapidapi.com/jakash1997/api/advanced-movie-search)** (`advanced-movie-search.p.rapidapi.com`) - Movie database - FREE
+- **[OTT Details](https://rapidapi.com/gox-ai-gox-ai-default/api/ott-details)** (`ott-details.p.rapidapi.com`) - Streaming platform info - FREE tier
+- **[Movie Database Alternative](https://rapidapi.com/SAdrian/api/moviesdatabase)** (`moviesminidatabase.p.rapidapi.com`) - Movie data - FREE tier
+- **[Watchmode](https://rapidapi.com/apimaker/api/watchmode)** (`watchmode.p.rapidapi.com`) - Streaming sources - FREE tier
 
-**Animals:**
-- **Dog Facts** (`dog-facts2.p.rapidapi.com`) - Random dog facts - FREE
-- **Cat Facts** (`cat-fact.p.rapidapi.com`) - Random cat facts - FREE
-- **Dog API** (`dog-api2.p.rapidapi.com`) - Random dog images - FREE
+**Food & Recipes:**
+- **[Tasty](https://rapidapi.com/apidojo/api/tasty)** (`tasty.p.rapidapi.com`) - 4000+ recipes from Buzzfeed Tasty - FREE tier
+- **[Edamam Recipe Search](https://rapidapi.com/edamam/api/recipe-search-and-diet)** (`edamam-recipe-search.p.rapidapi.com`) - 2.3M+ recipes - FREE tier
+- **[The Meal DB](https://rapidapi.com/theapiguy/api/themealdb)** (`themealdb.p.rapidapi.com`) - 283 meals with images - FREE
+- **[Recipe by API-Ninjas](https://rapidapi.com/apininjas/api/recipe-by-api-ninjas)** (`recipe-by-api-ninjas.p.rapidapi.com`) - Recipe search - FREE tier (1000/month)
+- **[Worldwide Recipes](https://rapidapi.com/rezkmike/api/worldwide-recipes1)** (`worldwide-recipes1.p.rapidapi.com`) - International recipes - FREE tier
+- **[Low Carb Recipes](https://rapidapi.com/mareksavkovic-5Yz8EqKp2O/api/low-carb-recipes)** (`low-carb-recipes.p.rapidapi.com`) - Diet-specific recipes - FREE
+
+**Health & Fitness:**
+- **[ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb)** (`exercisedb.p.rapidapi.com`) - 1300+ exercises with animations - FREE
+- **[Workout Planner](https://rapidapi.com/naeimsalib/api/work-out-api1)** (`work-out-api1.p.rapidapi.com`) - Custom workout plans - FREE tier
+- **[Fitness Calculator](https://rapidapi.com/malaaddincelik/api/fitness-calculator)** (`fitness-calculator.p.rapidapi.com`) - BMI, calories, etc. - FREE tier
+- **[Nutrition by API-Ninjas](https://rapidapi.com/apininjas/api/nutrition-by-api-ninjas)** (`nutrition-by-api-ninjas.p.rapidapi.com`) - 100k+ foods - FREE tier (1000/month)
+- **[Calorie Ninjas](https://rapidapi.com/calorieninjas/api/calorieninjas)** (`calorieninjas.p.rapidapi.com`) - Nutrition data - FREE tier
+- **[Yoga Poses](https://rapidapi.com/dev-warrior-dev-warrior-default/api/yoga-api-nzy4)** (`yoga-api-nzy4.p.rapidapi.com`) - Yoga pose database - FREE
 
 **Other Cool APIs:**
-- **Quotes** (`quotes15.p.rapidapi.com`) - Inspirational quotes - FREE
-- **COVID-19 Data** (`covid-193.p.rapidapi.com`) - COVID statistics - FREE
-- **NBA Stats** (`api-nba-v1.p.rapidapi.com`) - Basketball stats - FREE tier
+- **[GeoDB Cities](https://rapidapi.com/wirefreethought/api/geodb-cities)** (`wft-geo-db.p.rapidapi.com`) - World cities data - FREE tier
+- **[Random Facts](https://rapidapi.com/fungenerators/api/random-facts2)** (`random-facts2.p.rapidapi.com`) - Fun facts - FREE
+- **[Motivational Quotes](https://rapidapi.com/motivational-quotes-api/api/motivational-quotes1)** (`motivational-quotes1.p.rapidapi.com`) - Inspirational quotes - FREE
+- **[Trivia by API-Ninjas](https://rapidapi.com/apininjas/api/trivia-by-api-ninjas)** (`trivia-by-api-ninjas.p.rapidapi.com`) - Trivia questions - FREE tier
+- **[Open Library](https://rapidapi.com/roftcomp-laGmBwlWLm/api/hapi-books)** (`hapi-books.p.rapidapi.com`) - Book data - FREE
+- **[Currency Exchange](https://rapidapi.com/natkapral/api/currency-exchange)** (`currency-exchange.p.rapidapi.com`) - Exchange rates - FREE tier
 
 ### Want an API That's Not Listed?
 
@@ -172,10 +182,15 @@ const data = result.data; // Your API response
 
 ```javascript
 const jokeButton = document.querySelector("#joke-btn");
-const jokeDisplay = document.querySelector(".joke-display");
+const jokesList = document.querySelector(".jokes-list");
 
-const loadJoke = async () => {
-  const url = 'https://student-api-proxy.onrender.com/api/dad-jokes.p.rapidapi.com/random/joke';
+const loadJokes = async (limit) => {
+  if (!limit) {
+    alert("Limit not set properly");
+    return;
+  }
+  
+  const url = `https://student-api-proxy.onrender.com/api/dad-jokes.p.rapidapi.com/random/jokes/${limit}`;
   
   const options = {
     method: "GET",
@@ -184,34 +199,41 @@ const loadJoke = async () => {
 
   const response = await fetch(url, options);
   const result = await response.json();
-  const joke = result.data;
+  const jokes = result.data;
   
-  jokeDisplay.innerHTML = `
-    <p><strong>Setup:</strong> ${joke.setup}</p>
-    <p><strong>Punchline:</strong> ${joke.punchline}</p>
-  `;
+  jokesList.innerHTML = "";
+  jokes.forEach((joke) => {
+    const listItem = `
+      <li class="list-group-item">
+        ${joke.setup} - <em>${joke.punchline}</em>
+      </li>
+    `;
+    jokesList.insertAdjacentHTML("beforeend", listItem);
+  });
 };
 
-jokeButton.addEventListener("click", loadJoke);
+jokeButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadJokes(5); // Get 5 random jokes
+});
 ```
 
 #### Example 2: Multiple Buttons with Parameters (Weather)
 
 ```javascript
-const cityButtons = document.querySelectorAll(".city-btn");
-const weatherDisplay = document.querySelector(".weather-display");
+const nycButton = document.querySelector("#nyc-btn");
+const laButton = document.querySelector("#la-btn");
+const chicagoButton = document.querySelector("#chicago-btn");
+const weatherList = document.querySelector(".weather-list");
 
-const loadWeather = async (event) => {
-  event.preventDefault();
-  
-  const city = event.currentTarget.cityName;
+const loadWeather = async (city) => {
   if (!city) {
     alert("City not set properly");
     return;
   }
   
-  // Notice how we add the city parameter
-  const url = `https://student-api-proxy.onrender.com/api/weatherapi-com.p.rapidapi.com/current.json?q=${city}`;
+  // Get 5-day forecast
+  const url = `https://student-api-proxy.onrender.com/api/weatherapi-com.p.rapidapi.com/forecast.json?q=${city}&days=5`;
   
   const options = {
     method: "GET",
@@ -220,24 +242,33 @@ const loadWeather = async (event) => {
 
   const response = await fetch(url, options);
   const result = await response.json();
-  const weather = result.data;
+  const forecastDays = result.data.forecast.forecastday;
   
-  weatherDisplay.innerHTML = `
-    <h3>${weather.location.name}, ${weather.location.country}</h3>
-    <p>Temperature: ${weather.current.temp_f}°F</p>
-    <p>Condition: ${weather.current.condition.text}</p>
-  `;
+  weatherList.innerHTML = "";
+  forecastDays.forEach((day) => {
+    const listItem = `
+      <li class="list-group-item">
+        ${day.date}: ${day.day.condition.text}, High: ${day.day.maxtemp_f}°F
+      </li>
+    `;
+    weatherList.insertAdjacentHTML("beforeend", listItem);
+  });
 };
 
-// Set up multiple city buttons
-cityButtons.forEach(button => {
-  button.addEventListener("click", loadWeather);
+nycButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadWeather("New York");
 });
 
-// Assign city names to buttons
-document.querySelector("#nyc-btn").cityName = "New York";
-document.querySelector("#la-btn").cityName = "Los Angeles";
-document.querySelector("#chicago-btn").cityName = "Chicago";
+laButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadWeather("Los Angeles");
+});
+
+chicagoButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadWeather("Chicago");
+});
 ```
 
 #### Example 3: User Input with Search (Movies)
@@ -245,10 +276,9 @@ document.querySelector("#chicago-btn").cityName = "Chicago";
 ```javascript
 const searchInput = document.querySelector(".search-input");
 const searchButton = document.querySelector("#search-btn");
-const resultsDisplay = document.querySelector(".results");
+const moviesList = document.querySelector(".movies-list");
 
-const searchMovies = async () => {
-  const searchTerm = searchInput.value.trim();
+const searchMovies = async (searchTerm) => {
   if (!searchTerm) {
     alert("Please enter a movie title");
     return;
@@ -261,31 +291,35 @@ const searchMovies = async () => {
     headers: { 'X-API-Key': 'YOUR-API-KEY-HERE' }
   };
 
-  resultsDisplay.innerHTML = "Loading...";
+  moviesList.innerHTML = "Loading...";
   
   const response = await fetch(url, options);
   const result = await response.json();
   const movies = result.data;
   
-  resultsDisplay.innerHTML = "";
+  moviesList.innerHTML = "";
   movies.forEach((movie) => {
-    const movieCard = `
-      <div class="movie-card">
-        <h4>${movie.title}</h4>
-        <p>Year: ${movie.year}</p>
-        <p>Rating: ${movie.rating}/10</p>
-      </div>
+    const listItem = `
+      <li class="list-group-item">
+        <strong>${movie.title}</strong> (${movie.year}) - Rating: ${movie.rating}/10
+      </li>
     `;
-    resultsDisplay.insertAdjacentHTML("beforeend", movieCard);
+    moviesList.insertAdjacentHTML("beforeend", listItem);
   });
 };
 
-searchButton.addEventListener("click", searchMovies);
+searchButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  const searchTerm = searchInput.value.trim();
+  searchMovies(searchTerm);
+});
 
 // Also search when pressing Enter
 searchInput.addEventListener("keyup", (event) => {
   if (event.key === "Enter") {
-    searchMovies();
+    event.preventDefault();
+    const searchTerm = searchInput.value.trim();
+    searchMovies(searchTerm);
   }
 });
 ```
@@ -298,10 +332,7 @@ const dadButton = document.querySelector("#dad-btn");
 const punchlineButton = document.querySelector("#punchline-btn");
 const jokesList = document.querySelector(".jokes-list");
 
-const loadJokesByCategory = async (event) => {
-  event.preventDefault();
-  
-  const category = event.currentTarget.category;
+const loadJokesByCategory = async (category) => {
   if (!category) {
     alert("Category not set properly");
     return;
@@ -329,27 +360,36 @@ const loadJokesByCategory = async (event) => {
   });
 };
 
-funnyButton.addEventListener("click", loadJokesByCategory);
-funnyButton.category = "funny";
+funnyButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadJokesByCategory("funny");
+});
 
-dadButton.addEventListener("click", loadJokesByCategory);
-dadButton.category = "dad";
+dadButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadJokesByCategory("dad");
+});
 
-punchlineButton.addEventListener("click", loadJokesByCategory);
-punchlineButton.category = "punchline";
+punchlineButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadJokesByCategory("punchline");
+});
 ```
 
-#### Example 5: Getting Multiple Items (With Limit)
+#### Example 5: Getting Quotes by Author (Like Your Previous Project)
 
 ```javascript
-const get5JokesBtn = document.querySelector("#get-5-jokes");
-const get10JokesBtn = document.querySelector("#get-10-jokes");
-const jokesList = document.querySelector(".jokes-list");
+const authorInput = document.querySelector(".author-input");
+const searchButton = document.querySelector("#search-btn");
+const quotesList = document.querySelector(".quotes-list");
 
-const loadMultipleJokes = async (event) => {
-  const limit = event.currentTarget.limit;
+const loadQuotesByAuthor = async (author) => {
+  if (!author) {
+    alert("Please enter an author name");
+    return;
+  }
   
-  const url = `https://student-api-proxy.onrender.com/api/dad-jokes.p.rapidapi.com/random/jokes/${limit}`;
+  const url = `https://student-api-proxy.onrender.com/api/quotes15.p.rapidapi.com/quotes/random?author=${author}&limit=5`;
   
   const options = {
     method: "GET",
@@ -358,25 +398,33 @@ const loadMultipleJokes = async (event) => {
 
   const response = await fetch(url, options);
   const result = await response.json();
-  const jokes = result.data;
+  const quotes = result.data;
   
-  jokesList.innerHTML = "";
-  jokes.forEach((joke) => {
+  quotesList.innerHTML = "";
+  quotes.forEach((quote) => {
     const listItem = `
       <li class="list-group-item">
-        ${joke.setup}<br>
-        <em>${joke.punchline}</em>
+        ${quote.content} - ${quote.author}
       </li>
     `;
-    jokesList.insertAdjacentHTML("beforeend", listItem);
+    quotesList.insertAdjacentHTML("beforeend", listItem);
   });
 };
 
-get5JokesBtn.addEventListener("click", loadMultipleJokes);
-get5JokesBtn.limit = 5;
+searchButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  const author = authorInput.value.trim();
+  loadQuotesByAuthor(author);
+});
 
-get10JokesBtn.addEventListener("click", loadMultipleJokes);
-get10JokesBtn.limit = 10;
+// Also search when pressing Enter
+authorInput.addEventListener("keyup", (event) => {
+  if (event.key === "Enter") {
+    event.preventDefault();
+    const author = authorInput.value.trim();
+    loadQuotesByAuthor(author);
+  }
+});
 ```
 
 ### Understanding URL Structure
