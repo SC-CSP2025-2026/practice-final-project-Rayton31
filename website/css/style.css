@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Cedarville+Cursive&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+h1 {
+  font-family: "Bitcount Single", serif, cursive;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  background: #ffed25;
+  background: linear-gradient(0deg, #ffed25, #682bb8);
+  display: flex;
+  text-align: center;
+}
