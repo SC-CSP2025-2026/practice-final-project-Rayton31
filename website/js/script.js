@@ -29,7 +29,7 @@ console.log(data);
 
 const listGroup = document.querySelector(".list-group");
 
-loadRosterByTeam("general");
+loadRosterByTeam("GSW");
 
 
 // fetch(url, options)
