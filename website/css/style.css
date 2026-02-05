@@ -2,6 +2,7 @@
 
 h1 {
   font-family: "Bitcount Single", serif, cursive;
+  color: aliceblue;
 }
 
 html,
@@ -11,8 +12,8 @@ body {
 
 body {
   align-items: center;
-  background: #ffed25;
-  background: linear-gradient(0deg, #ffed25, #682bb8);
+  background: linear-gradient(135deg, #B11226, #243A6B);
   display: flex;
   text-align: center;
 }
+
