@@ -1,3 +1,9 @@
+const gswButton = document.querySelector("#GSW-btn");
+const houButton = document.querySelector("#HOU-btn");
+const lalButton = document.querySelector("#LAL-btn");
+const searchInput = document.querySelector("#search-box");
+const rostersList = document.querySelector(".list-group");
+
 const loadRosterByTeam = async (teamId) => {
   const url =
   `https://student-api-proxy.onrender.com/api/basketball-head.p.rapidapi.com/teams/${teamId}/roster/2016-2017`;
@@ -9,28 +15,50 @@ const options = {
   },
 };
 
-const response = await fetch (url, options);
+const response = await fetch(url, options);
 const result = await response.json();
-const data = result.data; // Your API response
+const data = result.data; // getSampleSearchRosterCeltics();
+const player = data.body.roster;
 
-console.log(data);
+rostersList.innerHTML = "";
 
-}
-  
-  
-  const gswButton = document.querySelector("#GSW-btn");
-  const houButton = document.querySelector("#HOU-btn");
-  const lalButton = document.querySelector("#LAL-btn");
+player.forEach((roster) => {
+  const listItem = `
+            <li class="list-group-item">
+            <div class="roster-name">${roster.name}</div>
+              <div class="roster-position">
+                ${roster.position}
+              </div>
+            </li>`;
+  rostersList.insertAdjacentHTML("beforeend", listItem);
+  // console.log(roster.name);
+  // console.log(roster.position);
+});
+};
 
-  console.log(lalButton);
-  console.log(gswButton);
-  console.log(houButton);
 
+gswButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadRosterByTeam("GSW");
+});
 
-const listGroup = document.querySelector(".list-group");
+lalButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadRosterByTeam("LAL");
+});
 
-loadRosterByTeam("GSW");
+houButton.addEventListener("click", (event) => {
+  event.preventDefault();
+  loadRosterByTeam("HOU");
+});
 
+searchInput.addEventListener("keyup", (event) => {
+  if(event.key === "Enter") {
+    event.preventDefault();
+    const searchTeam = searchInput.value.trim();
+    loadRosterByTeam(searchTeam);
+  }
+});
 
 // fetch(url, options)
 //   .then((response) =>

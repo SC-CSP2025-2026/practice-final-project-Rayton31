@@ -5,6 +5,16 @@ h1 {
   color: aliceblue;
 }
 
+.container {
+  max-width: 2000px;
+  width: 100%;
+};
+
+.card {
+  max-width: 500px;
+  height: 100%
+};
+
 html,
 body {
   height: 100%;
