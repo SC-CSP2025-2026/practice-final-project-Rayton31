@@ -2,7 +2,18 @@
 
 h1 {
   font-family: "Bitcount Single", serif, cursive;
+  color: aliceblue;
 }
+
+.container {
+  max-width: 2000px;
+  width: 100%;
+};
+
+.card {
+  max-width: 500px;
+  height: 100%
+};
 
 html,
 body {
@@ -11,8 +22,8 @@ body {
 
 body {
   align-items: center;
-  background: #ffed25;
-  background: linear-gradient(0deg, #ffed25, #682bb8);
+  background: linear-gradient(135deg, #B11226, #243A6B);
   display: flex;
   text-align: center;
 }
+
