@@ -6,7 +6,7 @@ const rostersList = document.querySelector(".list-group");
 
 const loadRosterByTeam = async (teamId) => {
   const url =
-  `https://student-api-proxy.onrender.com/api/basketball-head.p.rapidapi.com/teams/${teamId}/roster/2016-2017`;
+  `https://student-api-proxy.onrender.com/api/basketball-head.p.rapidapi.com/teams/${teamId}/roster/2025-2026`;
 const options = {
   method: "GET",
   headers: {
